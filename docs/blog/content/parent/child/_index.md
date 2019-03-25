@@ -1,7 +1,7 @@
 ---
 title: "Ventajas de las páginas web estáticas"
 date: 2019-03-25T02:09:26-06:00
-draft: true
+draft: false
 ---
 <head>Ventajas:</head><br></br>
 <body> Las páginas web estáticas recuerdan a los inicios de la World Wide Web, donde las ventanas emergentes de publicidad presentaban el máximo nivel de interactividad posible. Hoy, las páginas web son mucho más que meras plataformas de información, por lo que los elementos dinámicos son un factor muy importante que no debe subestimarse para el éxito de las aplicaciones web. Sin embargo, en determinados casos como en los blogs o las páginas corporativas, el foco de atención sigue estando en la transmisión de la información. Los sistemas de gestión de contenidos y los page builders se pueden utilizar en este tipo de proyectos, no obstante, los static site generators presentan ventajas decisivas frente a las soluciones clásicas: 
